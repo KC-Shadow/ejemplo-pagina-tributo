@@ -1,2 +1,2 @@
 # ejemplo-revista
-Este es un ejemplo de un modelo de Revista de freeCodeCamp
+Este es un ejemplo de un pagina tributo de freeCodeCamp
